@@ -31,5 +31,6 @@ So becareful
 # LINKS
 
 * https://fr.everand.com/read/498883933/Learn-Algorithmic-Trading-Build-and-deploy-algorithmic-trading-systems-and-strategies-using-Python-and-advanced-data-analysis
+* https://github.com/je-suis-tm/quant-trading
 * https://www.youtube.com/watch?v=xfzGZB4HhEE
 * https://www.youtube.com/watch?v=kz_NJERCgm8

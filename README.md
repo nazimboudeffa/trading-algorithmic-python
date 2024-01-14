@@ -22,9 +22,11 @@ Here you go
 
 # DISCLAIMER
 
-This is a software without any waranty under GNUGPL licence
+This is a software without any waranty under GNU/GPL licence
 
-Trading may risc in loosing all your money, so becareful
+Trading may risc in loosing all your money and we are not responsible of it
+
+So becareful
 
 # LINKS
 

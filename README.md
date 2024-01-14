@@ -25,3 +25,9 @@ Here you go
 This is a software without any waranty under GNUGPL licence
 
 Trading may risc in loosing all your money, so becareful
+
+# LINKS
+
+* https://fr.everand.com/read/498883933/Learn-Algorithmic-Trading-Build-and-deploy-algorithmic-trading-systems-and-strategies-using-Python-and-advanced-data-analysis
+* https://www.youtube.com/watch?v=xfzGZB4HhEE
+* https://www.youtube.com/watch?v=kz_NJERCgm8

@@ -30,7 +30,7 @@ Then create a trading env
 
 `conda create trading`
 
-Install jupyter or
+Install jupyter maybe it's already working
 
 `pip install yfinance`
 

@@ -16,11 +16,21 @@ Under Windows use Anaconda
 
 I am coiding this under Ubuntu
 
-So install conda
+So install conda by going to https://anaconda.com/download
 
-Create a trading env
+Then execute
 
-Install jupyter
+`bash ./Anaconda3-2023.07-2-Linux-x86_64.sh`
+
+Follow the instructions
+
+`source ~/.bashrc`
+
+Then create a trading env
+
+`conda create trading`
+
+Install jupyter or
 
 `pip install yfinance`
 

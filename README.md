@@ -4,7 +4,13 @@ Written in Python, this set of tools aims to be an automatic trading tool for a 
 
 # Installation
 
+Install Python environment
+
+## Windows
+
 Under Windows use Anaconda
+
+## Ubuntu
 
 I am coiding this under Ubuntu
 
@@ -19,6 +25,14 @@ Install jupyter
 `pip install matplotlib`
 
 Here you go
+
+Just open a terminal
+
+`conda activate trading`
+
+Under the repo
+
+`jupyter notebook`
 
 # DISCLAIMER
 

@@ -38,7 +38,7 @@ Under the repo
 
 This is a software without any waranty under GNU/GPL licence
 
-Trading may risc in loosing all your money and we are not responsible of it
+Trading may risk in loosing all your money and we are not responsible of it
 
 So becareful
 

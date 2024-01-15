@@ -2,6 +2,8 @@
 
 Written in Python, this set of tools aims to be an automatic trading tool for a future website that will analyse FOREX and give advices
 
+This is not a bot
+
 # Installation
 
 Install Python environment
